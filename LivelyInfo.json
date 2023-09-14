@@ -1,0 +1,22 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Alien Monster",
+  "Thumbnail": "img/thumbinail.jpg",
+  "Preview": "img/preview.gif",
+  "Desc": "Alien Monster Theme For Lively Wallpaper",
+  "Author": "Virus24",
+  "License": "See License.txt",
+  "Contact": "https://github.com/virgel1995/lively-theme",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--pause-event true",
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": [
+    "Alien",
+    "Monster",
+    "theme",
+    "Lively"
+  ],
+  "Version": 0
+}
