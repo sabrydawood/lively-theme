@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <h1 style="text-align: center;">lively-theme</h1>
 
 <p>
 This Theme Is Created For My Laptop Theme
-To work With  <a href="https://www.rocksdanister.com/lively/" target="_blank" style="background-color: lightcoral; color: black; padding: 5px 10px; border-radius: 10px; text-decoration: none;">Lively-wallpaper</a>
+To work With  <a href="https://www.rocksdanister.com/lively/" target="_blank" >Lively-wallpaper</a>
 </p>
 
 <h2 style="text-align: center;"> Preview </h2>
