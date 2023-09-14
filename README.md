@@ -3,7 +3,7 @@
 
 <p>
 This Theme Is Created For My Laptop Theme
-To work With  <a href="https://www.rocksdanister.com/lively/" target="_blank">Lively-wallpaper</a>
+To work With  <a href="https://www.rocksdanister.com/lively/" target="_blank" style="background-color: lightcoral; color: black; padding: 5px 10px; border-radius: 10px; text-decoration: none;">Lively-wallpaper</a>
 </p>
 
 <h2 style="text-align: center;"> Preview </h2>
@@ -13,13 +13,9 @@ To work With  <a href="https://www.rocksdanister.com/lively/" target="_blank">Li
 
 ## install On your Pc/ laptop
 
-```
-1 - open your file explor
-2 - Go To 
-C:\Users\replace with your User Folder Name \AppData\Local\Packages\12030rocksdanister.LivelyWallpaper_97hta09mmv6hy\LocalCache\Local\Lively Wallpaper\Library\wallpapers
-
-3 - Add This Theme Folder There 
-4 - Open Lively Application 
-5 - Select Theme There To Run It 
-Enjoy .......
-```
+1 - <h4 style="color: lightcoral;">open your file explor</h4>
+2 - <h4 style="color: lightcoral;">Go To </h4>`C:\Users\replace with your User Folder Name \AppData\Local\Packages\12030rocksdanister.LivelyWallpaper_97hta09mmv6hy\LocalCache\Local\Lively Wallpaper\Library\wallpapers`
+3 - <h4 style="color: lightcoral;">Add This Theme Folder There </h4>
+4 - <h4 style="color: lightcoral;">Open Lively Application </h4>
+5 - <h4 style="color: lightcoral;">Select Theme There To Run It </h4>
+<h2 style="color: lightblue; text-align: center;"> Enjoy .......</h2>
