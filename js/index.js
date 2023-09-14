@@ -16,7 +16,7 @@ function init(elemid) {
     c = canvas.getContext("2d"),
     w = (canvas.width = window.innerWidth),
     h = (canvas.height = window.innerHeight);
-  c.fillStyle = "rgba(255,0,0,1)";
+  c.fillStyle = "rgba(30,30,30,1)";
   c.fillRect(0, 0, w, h);
   return { c: c, canvas: canvas };
 }
@@ -137,7 +137,7 @@ window.onload = function () {
       c.beginPath();
       if (dist(this.x, this.y, target.x, target.y) <= this.l) {
         c.arc(this.x, this.y, 2 * this.rand + 1, 0, 2 * Math.PI);
-        c.fillStyle = "red";
+        c.fillStyle = "white";
       } else {
         c.arc(this.x, this.y, this.rand * 2, 0, 2 * Math.PI);
         c.fillStyle = "darkcyan";
@@ -198,7 +198,7 @@ window.onload = function () {
       0,
       2 * Math.PI
     );
-    c.fillStyle = "hsl(0, 100%, 50%)";
+    c.fillStyle = "hsl(210,100%,80%)";
     c.fill();
 
     for (i = 0; i < numt; i++) {
