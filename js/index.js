@@ -137,7 +137,7 @@ window.onload = function () {
       c.beginPath();
       if (dist(this.x, this.y, target.x, target.y) <= this.l) {
         c.arc(this.x, this.y, 2 * this.rand + 1, 0, 2 * Math.PI);
-        c.fillStyle = "white";
+        c.fillStyle = "red";
       } else {
         c.arc(this.x, this.y, this.rand * 2, 0, 2 * Math.PI);
         c.fillStyle = "darkcyan";
