@@ -15,6 +15,7 @@ To work With  <a href="https://www.rocksdanister.com/lively/" target="_blank" >L
 
 <h4 style="color: lightcoral;">1 - Open your file explor</h4>
 <h4 style="color: lightcoral;">2 - Go To </h4>`C:\Users\replace with your User Folder Name \AppData\Local\Packages\12030rocksdanister.LivelyWallpaper_97hta09mmv6hy\LocalCache\Local\Lively Wallpaper\Library\wallpapers`
+
 <h4 style="color: lightcoral;">3 - Add This Theme Folder There </h4>
 <h4 style="color: lightcoral;">4 - Open Lively Application </h4>
  <h4 style="color: lightcoral;">5 - Select Theme There To Run It </h4>
