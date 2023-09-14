@@ -198,7 +198,7 @@ window.onload = function () {
       0,
       2 * Math.PI
     );
-    c.fillStyle = "hsl(210,100%,80%)";
+    c.fillStyle = "hsl(0, 100%, 50%)";
     c.fill();
 
     for (i = 0; i < numt; i++) {
